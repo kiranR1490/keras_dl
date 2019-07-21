@@ -3,7 +3,7 @@
 """
 Created on Mon Jul 15 13:37:35 2019
 
-@author: vconnect6
+@author: kiran allada
 """
 
 from keras.models import Sequential
