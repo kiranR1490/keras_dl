@@ -4,6 +4,7 @@
 Created on Mon Jul 15 13:37:35 2019
 
 @author: kiran allada
+Dataset:- https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 """
 
 from keras.models import Sequential
